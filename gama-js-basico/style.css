@@ -1,0 +1,42 @@
+body{
+  background-color: darkcyan;
+}
+
+h1.page-header{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+img{
+  width: 50%;
+}
+
+small.form-text.text-muted{
+  color: #d6d6d6;
+}
+
+.formulario {
+  margin-top: 5%;
+}
+
+.jumbotron{
+  background-color: rgb(17, 70, 83);
+}
+
+#foto{
+  text-align: center;
+}
+
+#merchan{
+  text-align: center;
+}
+
+button.btn.btn-info{
+  border-radius: 10px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
